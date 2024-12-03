@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# **QuickIcon**
 
-## Getting Started
+### Free Logo Maker
 
-First, run the development server:
+**Create a beautiful logo in seconds.**  
+No design skills needed.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+QuickIcon is your go-to free logo maker, designed to help you craft stunning logos effortlessly. Choose from a variety of SVG icons, customize backgrounds, and create professional designs in just a few clicks.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<div>
+  <img src="/images/quick-cion-web-preview.png" alt="QuickIcon Preview 1" width="45%" />
+  <img src="/images/quick-cion-web-preview.png" alt="QuickIcon Preview 1" width="45%" />
+</div>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Key Features:**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Easy-to-use interface.
+- Wide range of SVG icons and styles.
+- Fully customizable backgrounds.
+- Export your logo in seconds.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Get started now and bring your vision to life with QuickIcon!
