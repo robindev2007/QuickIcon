@@ -7,10 +7,8 @@ No design skills needed.
 
 QuickIcon is your go-to free logo maker, designed to help you craft stunning logos effortlessly. Choose from a variety of SVG icons, customize backgrounds, and create professional designs in just a few clicks.
 
-<div>
-  <img src="/images/quick-cion-web-preview.png" alt="QuickIcon Preview 1" width="45%" />
-  <img src="/images/quick-cion-web-preview.png" alt="QuickIcon Preview 1" width="45%" />
-</div>
+  <img src="https://github.com/robindev2007/QuickIcon/blob/main/public/images/quick-cion-web-preview.png" alt="QuickIcon Preview 1" />
+  <img src="https://github.com/robindev2007/QuickIcon/blob/main/public/images/quick-icon-icons-preview.png" alt="QuickIcon Preview 1" />
 
 **Key Features:**
 
